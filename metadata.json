@@ -1,15 +1,21 @@
 {
-  "name": "DevaCoin",
-  "symbol": "DVA",
-  "description": "The official token of Deva!",
-  "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/deva-logo.png",
+  "name": "SafalCoin",
+  "symbol": "SFC",
+  "description": "SafalCoin (Millionair Maman) is a decentralized meme coin on Solana.",
+  "image": "https://raw.githubusercontent.com/Deva-2002/crypto-token/main/safalcoin.png",
   "properties": {
+    "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/yourusername/yourrepo/main/deva-logo.png",
+        "uri": "https://raw.githubusercontent.com/Deva-2002/crypto-token/main/safalcoin.png",
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "creators": [
+      {
+        "address": "93xLNDKteJHehJGKK6tadXfwXJ775pyc9b8ZL1CA3uKL",
+        "share": 100
+      }
+    ]
   }
 }
